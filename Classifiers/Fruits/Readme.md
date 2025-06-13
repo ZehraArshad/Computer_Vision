@@ -52,8 +52,3 @@ For code click on the following
 
 ![alt text](image-2.png)
 
-
-# Using YOLO Model
-
-
-- [Code](Classifiers\Fruits\fruit_classifier.ipynb)
